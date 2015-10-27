@@ -1,0 +1,23 @@
+{
+  "name": "post-issue",
+  "version": "1.0.0",
+  "description": "authentication experimentation",
+  "main": "handlers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdrdavies/post-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdrdavies/post-issue/issues"
+  },
+  "homepage": "https://github.com/hdrdavies/post-issue#readme",
+  "dependencies": {
+    "env2": "^2.0.4"
+  }
+}
