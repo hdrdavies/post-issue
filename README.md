@@ -1,5 +1,4 @@
 # post-issue
-
 Authentication Experimentation.
 
 Current issue - writing the anonymous function which accompanies the request for creating an issue
